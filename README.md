@@ -21,8 +21,10 @@ Um das Spiel zu starten, führen Sie das Python-Skript `Textbasiertes Adventure-
 
 Viel Spaß und viel Glück!
 
+
+
 ## Unterstützung
 
 Wenn du dieses Projekt hilfreich findest, unterstützen mit [donate](https://www.paypal.com/donate/?hosted_button_id=4S77QGBW6FT3W).
 
-
+vielleicht kommt ein teil 2
