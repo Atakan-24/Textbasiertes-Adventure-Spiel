@@ -1,7 +1,11 @@
 Dies ist ein einfaches textbasiertes Adventure-Spiel, in dem der Spieler Entscheidungen treffen muss, um verschiedene Szenarien zu durchlaufen.
 
 gut um if und else zu verstehen 
-![image](https://github.com/Atakan-24/Textbasiertes-Adventure-Spiel/assets/93819298/894724ed-7682-47ad-aebe-522cfb4c6b36)
+
+
+![image](https://github.com/Atakan-24/Textbasiertes-Adventure-Spiel/assets/93819298/d06c1bf0-c3f3-4f96-858c-c544fc5b1421)
+
+
 ## Spielregeln
 
 1. Der Spieler beginnt vor einer Höhle und muss entscheiden, ob er hineingehen möchte oder nicht.
@@ -11,7 +15,7 @@ gut um if und else zu verstehen
 
 ## Spiel starten
 
-Um das Spiel zu starten, führen Sie das Python-Skript `.py` aus und folgen Sie den Anweisungen auf dem Bildschirm.
+Um das Spiel zu starten, führen Sie das Python-Skript `Textbasiertes Adventure-Spiel.py` aus und folgen Sie den Anweisungen auf dem Bildschirm.
 
 Viel Spaß und viel Glück!
 
