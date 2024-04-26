@@ -1,3 +1,5 @@
+# Textbasiertes Adventure-Spiel
+
 Dies ist ein einfaches textbasiertes Adventure-Spiel, in dem der Spieler Entscheidungen treffen muss, um verschiedene Szenarien zu durchlaufen.
 
 gut um if und else zu verstehen 
@@ -18,4 +20,9 @@ gut um if und else zu verstehen
 Um das Spiel zu starten, führen Sie das Python-Skript `Textbasiertes Adventure-Spiel.py` aus und folgen Sie den Anweisungen auf dem Bildschirm.
 
 Viel Spaß und viel Glück!
+
+## Unterstützung
+
+Wenn du dieses Projekt hilfreich findest, unterstützen mit [donate](https://www.paypal.com/donate/?hosted_button_id=4S77QGBW6FT3W).
+
 
